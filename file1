@@ -1,5 +1,14 @@
 if{
 int a=2;
 int b=3;
+<<<<<<< HEAD
 
 }
+=======
+	then{
+		sum=a+b;
+		print ( 'sum")
+	}
+}
+
+>>>>>>> d02a748150f67903fc6dd29e84eb5e70e971a8c7
